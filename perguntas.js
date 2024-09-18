@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Portugues',
+    'No alfabeto, depois do A, vem que letra?',
+    'Resposta: B.'
 )
 
 criaCartao(
@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'GitHub',
+    'Como acessar o GitHub?',
+    'Com login e senha.'
 )
