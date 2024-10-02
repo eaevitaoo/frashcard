@@ -50,3 +50,4 @@ criaCartao(
     'Meio Ambiente',
     'Qual é o papel da educação ambiental?',
     'A educação ambiental informa e sensibiliza as pessoas sobre questões ambientais, promovendo práticas sustentáveis e responsabilidade coletiva.'
+)
